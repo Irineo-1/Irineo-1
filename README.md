@@ -44,15 +44,15 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/irineo-villa-castillo-64359b1a9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/irineo-villa-castillo-64359b1a9/"><img alt="LinkedIn" src="https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo"></a>
 
-<a href="mailto:javieririneo369@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:javieririneo369@gmail.com"><img alt="Email" src="https://imgs.search.brave.com/ZzU3SSmyfPftDcxiM_CaibAhFpY0vTxcxsu2MbXFH_k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tYWls/bWV0ZW9yLmNvbS9s/b2dvcy9hc3NldHMv/UE5HL0dtYWlsX0xv/Z29fMTI4cHgucG5n"></a>
 
 </p>
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Irineo-1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irineo-1&show_icons=true)](https://github.com/Irineo-1)
 
 <br/>
 
