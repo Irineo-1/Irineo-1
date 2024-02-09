@@ -40,13 +40,11 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/irineo-villa-castillo-64359b1a9/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Javier Irineo LinkedIn Profile" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/irineo-villa-castillo-64359b1a9/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Javier Irineo LinkedIn Profile" height="30" width="30"></a>
 
-<a href="mailto:javieririneo369@gmail.com"><img alt="Email" src="https://imgs.search.brave.com/ZzU3SSmyfPftDcxiM_CaibAhFpY0vTxcxsu2MbXFH_k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tYWls/bWV0ZW9yLmNvbS9s/b2dvcy9hc3NldHMv/UE5HL0dtYWlsX0xv/Z29fMTI4cHgucG5n" height="30" width="30"></a>
+<a href="mailto:javieririneo369@gmail.com" target="_blank"><img alt="Email" src="https://imgs.search.brave.com/ZzU3SSmyfPftDcxiM_CaibAhFpY0vTxcxsu2MbXFH_k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tYWls/bWV0ZW9yLmNvbS9s/b2dvcy9hc3NldHMv/UE5HL0dtYWlsX0xv/Z29fMTI4cHgucG5n" height="30" width="30"></a>
 
 </p>
 
