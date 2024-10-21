@@ -16,7 +16,7 @@
 
 - 💻 &nbsp; Python | Flask | Node.js | PHP | Laravel (just a little)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | Bootstrap | Vue.js | Vue route | Pinia | React.js
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | Bootstrap | Vue.js | Vue route | React.js
 
 <!--
 
