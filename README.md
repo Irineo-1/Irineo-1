@@ -18,10 +18,6 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | Bootstrap | Vue.js | Vue route | React.js
 
-<h3> 💼 Portfolio </h3>
-
-<a href="https://cv-irineo-villa.vercel.app/" style="text-decoration: none !important;" target="_blank">--  &nbsp;  See Portfolio --> <img src="https://cdn-icons-png.flaticon.com/256/12177/12177103.png" alt="Javier Irineo Profile" height="30" width="30"></img></a>
-
 <!--
 
 - 🛢 &nbsp; MySQL | PgAdmin
@@ -35,6 +31,11 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Django
 
 <hr>
+
+<h3> 💼 Portfolio </h3>
+
+<a href="https://cv-irineo-villa.vercel.app/" style="text-decoration: none !important;" target="_blank">--  &nbsp;  See Portfolio --> <img src="https://cdn-icons-png.flaticon.com/256/12177/12177103.png" alt="Javier Irineo Profile" height="30" width="30"></img></a>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
