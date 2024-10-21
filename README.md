@@ -34,6 +34,10 @@
 
 <hr>
 
+<h3> 💼 Portfolio </h3>
+
+<a href="https://cv-irineo-villa.vercel.app/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fportfolio_12177103&psig=AOvVaw1uEqZfTmksCkeyNAACbhwa&ust=1729561801726000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDgqvetnokDFQAAAAAdAAAAABAE" alt="Javier Irineo Profile" height="30" width="30"></img> </a>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
