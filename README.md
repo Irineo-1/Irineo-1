@@ -31,7 +31,6 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Django
 
 <h3> 💼 Portfolio </h3>
-<br>
 <a target="_blank" href="https://cv-irineo-villa.vercel.app/" style="text-decoration: none !important;">--  &nbsp;  See Portfolio --> <img src="https://cdn-icons-png.flaticon.com/256/12177/12177103.png" alt="Javier Irineo Profile" height="30" width="30"></img></a>
 
 <a target="_blank" href="https://cv-irineo-villa-chat.vercel.app/" style="text-decoration: none !important;">--  &nbsp;  See Portfolio Chat --> <img src="https://cdn-icons-png.flaticon.com/256/12177/12177103.png" alt="Javier Irineo Profile" height="30" width="30"></img></a>
