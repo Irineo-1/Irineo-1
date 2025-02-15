@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Flask | Node.js | PHP | Laravel (just a little)
+- 💻 &nbsp; Python | Flask | FastAPI | Node.js | PHP | Laravel (just a little)
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | Bootstrap | Vue.js | Vue route | React.js
 
@@ -31,8 +31,10 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Django
 
 <h3> 💼 Portfolio </h3>
-
+<br>
 <a href="https://cv-irineo-villa.vercel.app/" style="text-decoration: none !important;" target="_blank">--  &nbsp;  See Portfolio --> <img src="https://cdn-icons-png.flaticon.com/256/12177/12177103.png" alt="Javier Irineo Profile" height="30" width="30"></img></a>
+
+<a href="https://cv-irineo-villa-chat.vercel.app/" style="text-decoration: none !important;" target="_blank">--  &nbsp;  See Portfolio --> <img src="https://cdn-icons-png.flaticon.com/256/12177/12177103.png" alt="Javier Irineo Profile" height="30" width="30"></img></a>
 
 <hr>
 
